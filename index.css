@@ -31,19 +31,10 @@ p {
 ul {
     list-style: none;
 }
-
+/*
 button {
-    font-size: 2em;
-    font-weight: bold;
-    padding: 10px 50px;
-    border-radius: 8px;
-    border-color: white;
-    border-width: 2px;
-    box-shadow: 2px 1.5px 8px;
-    color: rgb(255, 255, 255);
-    background-color: rgb(19, 110, 201);
 }
-
+*/
 li {
     font-size: 1.19em;
 }
